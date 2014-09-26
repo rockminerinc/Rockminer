@@ -1,35 +1,12 @@
-# ROCKMINER 
+# R-BOX ×ÊÔ´
 
-## æŠ€æœ¯æ”¯æŒ
+### ²Ù×÷ÊÖ²á£¨Handbook£©
+####[ÖĞÎÄ](https://github.com/rockminerinc/cgminer-for-R-BOX/blob/master/handbook.md£©
+####[English](https://github.com/rockminerinc/cgminer-for-R-BOX/blob/master/handbook.md)
 
-å®˜æ–¹ç½‘ç«™ [https://www.rockminer.com](https://www.rockminer.com)
-å®˜æ–¹è®ºå› [http://forum.rockminer.com](http://forum.rockminer.com)
-è”ç³»äºº [suki@rockminer.com](suki@rockminer.com)
+### Èí¼şÏÂÔØ£¨Software Download£©
+####Windows ÍÚ¿ó³ÌĞò£º[https://github.com/rockminerinc/cgminer-for-Rocket-box](https://github.com/rockminerinc/cgminer-for-Rocket-box)
+####Ê÷İ®ÅÉ£¬Cubieboard¾µÏñÎÄ¼ş£º[http://pan.baidu.com/s/1jGsrfU2](http://pan.baidu.com/s/1jGsrfU2)
 
-## äº§å“åˆ—è¡¨
-* R-BOXç³»åˆ—
-  * R-BOX  ï¼ˆ32 GHash/sï¼‰    [æŠ€æœ¯æ–‡æ¡£](https://www.rockminer.com)
-  * New R-BOX ï¼ˆ110 GHash/sï¼‰[æŠ€æœ¯æ–‡æ¡£](https://www.rockminer.com)
-* Rockerç³»åˆ—
-  *  RK ï¼ˆ450 GHash/sï¼‰			[æŠ€æœ¯æ–‡æ¡£](https://www.rockminer.com)
-  *  R3 ï¼ˆ450 GHash/sï¼‰	 		[æŠ€æœ¯æ–‡æ¡£](https://www.rockminer.com)
-  *  R4 ï¼ˆ450 GHash/sï¼‰			[æŠ€æœ¯æ–‡æ¡£](https://www.rockminer.com)
-* Tç³»åˆ—
-  *  T1 ï¼ˆ800 GHash/s)			[æŠ€æœ¯æ–‡æ¡£](https://www.rockminer.com)
-
-## Support
-
-Websit [https://www.rockminer.com](https://www.rockminer.com)
-Forum [http://forum.rockminer.com](http://forum.rockminer.com)
-Contact [suki@rockminer.com](suki@rockminer.com)
-
-## Products
-* R-BOX Series
-  * R-BOX  ï¼ˆ32 GHash/sï¼‰    [Guild](https://www.rockminer.com)
-  * New R-BOX ï¼ˆ110 GHash/sï¼‰[Guild](https://www.rockminer.com)
-* Rocker Series
-  *  RK ï¼ˆ450 GHash/sï¼‰			[Guild](https://www.rockminer.com)
-  *  R3 ï¼ˆ450 GHash/sï¼‰	 		[Guild](https://www.rockminer.com)
-  *  R4 ï¼ˆ450 GHash/sï¼‰			[Guild](https://www.rockminer.com)
-* T Series
-  *  T1 ï¼ˆ800 GHash/s)			[Guild](https://www.rockminer.com)
+### Ô´´úÂë (Source Code)
+####Cgminer£º [https://github.com/rockminerinc/cgminer](https://github.com/rockminerinc/cgminer)
