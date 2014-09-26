@@ -11,11 +11,11 @@ Rockminer
 
 ## 产品列表
 * R-BOX系列
-  * R-BOX ��32 G/Hash��      ��文档
-  * New R-BOX ��110 G/Hash�� �����ĵ���
+  * R-BOX  （32 GHash）    [技术文档](https://www.rockminer.com)
+  * New R-BOX （110 GHash）[技术文档](https://www.rockminer.com)
 * Rocker系列
-  *  RK ��450 G/Hash��       �����ĵ���
-  *  R3 ��450 G/Hash��       �����ĵ���
-  *  R4 ��450 G/Hash��       �����ĵ���
+  *  RK （450 GHash）			[技术文档](https://www.rockminer.com)
+  *  R3 （450 GHash）	 		[技术文档](https://www.rockminer.com)
+  *  R4 （450 GHash）			[技术文档](https://www.rockminer.com)
 * T系列
-  *  T1 ��800 G/Hash��       �����ĵ���
+  *  T1 （800 GHash)			[技术文档](https://www.rockminer.com)
